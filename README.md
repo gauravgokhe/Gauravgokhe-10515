@@ -1,9 +1,9 @@
 # Gauravgokhe-10515
-# Armstrong Number Checker (C Language)
+# Armstrong Number Checker
 
 ## 📌 Project Description
 This project is a simple C program that checks whether a given 3-digit number is an Armstrong number or not.  
-An Armstrong number is a number whose sum of the cubes of its digits is equal to the original number.
+**An Armstrong** number is a number whose sum of the cubes of its digits is equal to the original number.
 
 Example:
 153 = 1³ + 5³ + 3³ = 153 → Armstrong Number
@@ -66,6 +66,9 @@ To create an Armstrong Number Checker using C programming that determines whethe
 ---
 
 ## 🖥️ Output Screenshot
+
+<img width="1162" height="903" alt="output1" src="https://github.com/user-attachments/assets/ac3721e4-c953-4d3b-a263-19417a4138e9" />
+<img width="1157" height="901" alt="output2" src="https://github.com/user-attachments/assets/7650205d-d03e-4a80-aa8f-32aad8facb7d" />
 
 
 ---
